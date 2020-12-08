@@ -48,3 +48,7 @@ npx sequelize-cli db:seed:all
 ```
 
 Congratulations! You’ve used the Sequelize command line interface to set up Sequelize to moderate interactions between an SQL database and Node. 
+
+## Defining associations
+
+- Eager loading filtered at the associated model level
